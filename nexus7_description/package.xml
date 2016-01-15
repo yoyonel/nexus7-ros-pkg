@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>nexus7_description</name>
+  <version>1.1.5</version>
+  <description>
+      This package contains the description for the Google/ASUS Nexus 7.
+  </description>
+  <author>Chad Rockey</author>
+  <maintainer email="chadrockey@gmail.com">Chad Rockey</maintainer>
+  <license>BSD</license>
+  <url>http://ros.org/wiki/nexus7_description</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>urdf</run_depend>
+  <export>
+  </export>
+</package>
